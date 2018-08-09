@@ -1,1 +1,3 @@
 This is my very first project, when I was learning C#
+
+It's a simple car dealer program, where we can add cars of type sedan, truck and bus. Users can purchase these cars and take it to their garages. 
