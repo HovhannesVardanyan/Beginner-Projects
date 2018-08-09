@@ -1,2 +1,2 @@
-  This is my first project when I was covering topics like I/O and serialization. As the name says, it is a phonebook application. The user has its login password to log in. Users can add, remove and edit their contacts that are saved to some files. 
+  This is my first project when I was covering topics like I/O and serialization. As the name implies, it is a phonebook application. The user has its login and password to sign in. Users can add, remove and edit their contacts that are saved to some files. 
   There are actually two phonebook classes in my project. One of them saves contacts as xml files. The other one utilizes simple .txt files.
